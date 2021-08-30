@@ -19,7 +19,7 @@
 {% trans username=username, verification_url=verification_url|safe -%}
 Hi {{ username }},
 
-to activate your GNU MediaGoblin account, open the following URL in
+to activate your devTube account, open the following URL in
 your web browser:
 
 {{ verification_url }}
