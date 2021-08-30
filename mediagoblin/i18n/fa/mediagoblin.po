@@ -1536,7 +1536,7 @@ msgstr "هنوز حساب کاربری ندارید؟ ساختنش آسان اس
 msgid ""
 "\n"
 "            >Create an account at this site</a>\n"
-"            or"
+"            "
 msgstr ""
 
 #: mediagoblin/templates/mediagoblin/bits/frontpage_welcome.html:42

@@ -1604,7 +1604,7 @@ msgstr "Non ne hai già uno? E' semplice!"
 msgid ""
 "\n"
 "            >Create an account at this site</a>\n"
-"            or"
+"            "
 msgstr "\n>Crea un account in questo sito</a>\noppure"
 
 #: mediagoblin/templates/mediagoblin/bits/frontpage_welcome.html:42

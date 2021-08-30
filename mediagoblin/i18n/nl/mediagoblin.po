@@ -1540,7 +1540,7 @@ msgstr "Heb je er nog geen? Het is heel eenvoudig!"
 msgid ""
 "\n"
 "            >Create an account at this site</a>\n"
-"            or"
+"            "
 msgstr "\n            >Creëer een account op deze site</a>\n            of"
 
 #: mediagoblin/templates/mediagoblin/bits/frontpage_welcome.html:42

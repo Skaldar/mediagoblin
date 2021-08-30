@@ -1543,7 +1543,7 @@ msgstr "אין ברשותך חשבון עדיין? זה קל!"
 msgid ""
 "\n"
 "            >Create an account at this site</a>\n"
-"            or"
+"            "
 msgstr "\n>צור חשבון באתר זה</a>\nאו"
 
 #: mediagoblin/templates/mediagoblin/bits/frontpage_welcome.html:42

@@ -1692,7 +1692,7 @@ msgstr "¿Aún no tienes una? ¡Es fácil!"
 msgid ""
 "\n"
 "            >Create an account at this site</a>\n"
-"            or"
+"            "
 msgstr "\n            >Crear una cuenta en este sitio</a>\n            o"
 
 #: mediagoblin/templates/mediagoblin/bits/frontpage_welcome.html:42

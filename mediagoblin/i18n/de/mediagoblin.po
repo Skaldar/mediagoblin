@@ -1580,7 +1580,7 @@ msgstr "Du hast noch keins? Dann registrier dich hier einfach."
 msgid ""
 "\n"
 "            >Create an account at this site</a>\n"
-"            or"
+"            "
 msgstr "\n>Erstelle auf dieser Seite ein Benutzerkonto</a>\noder"
 
 #: mediagoblin/templates/mediagoblin/bits/frontpage_welcome.html:42

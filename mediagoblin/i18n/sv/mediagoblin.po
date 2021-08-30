@@ -1547,7 +1547,7 @@ msgstr "Har du inte ett redan? Det är lätt!"
 msgid ""
 "\n"
 "            >Create an account at this site</a>\n"
-"            or"
+"            "
 msgstr ""
 
 #: mediagoblin/templates/mediagoblin/bits/frontpage_welcome.html:42

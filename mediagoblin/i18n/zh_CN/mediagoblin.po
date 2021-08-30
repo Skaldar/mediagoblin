@@ -1539,7 +1539,7 @@ msgstr "没有账户吗？开账户很简单！"
 msgid ""
 "\n"
 "            >Create an account at this site</a>\n"
-"            or"
+"            "
 msgstr ""
 
 #: mediagoblin/templates/mediagoblin/bits/frontpage_welcome.html:42

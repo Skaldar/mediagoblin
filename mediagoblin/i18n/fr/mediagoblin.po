@@ -1579,7 +1579,7 @@ msgstr "Vous n'en avez pas ? C'est facile !"
 msgid ""
 "\n"
 "            >Create an account at this site</a>\n"
-"            or"
+"            "
 msgstr ""
 
 #: mediagoblin/templates/mediagoblin/bits/frontpage_welcome.html:42

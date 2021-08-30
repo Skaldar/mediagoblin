@@ -1538,7 +1538,7 @@ msgstr "Ĉu vi ankoraŭ ne havas tian? Ne malĝoju!"
 msgid ""
 "\n"
 "            >Create an account at this site</a>\n"
-"            or"
+"            "
 msgstr ""
 
 #: mediagoblin/templates/mediagoblin/bits/frontpage_welcome.html:42

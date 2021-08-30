@@ -1566,7 +1566,7 @@ msgstr "Ertu ekki með aðgang? Það er auðvelt að búa til!"
 msgid ""
 "\n"
 "            >Create an account at this site</a>\n"
-"            or"
+"            "
 msgstr ""
 
 #: mediagoblin/templates/mediagoblin/bits/frontpage_welcome.html:42

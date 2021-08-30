@@ -1535,7 +1535,7 @@ msgstr "아직 아무것도 없으시다구요? 매우 쉽습니다!"
 msgid ""
 "\n"
 "            >Create an account at this site</a>\n"
-"            or"
+"            "
 msgstr ""
 
 #: mediagoblin/templates/mediagoblin/bits/frontpage_welcome.html:42

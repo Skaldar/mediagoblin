@@ -1539,7 +1539,7 @@ msgstr "Ještě ho nemáte? Je to jednoduché!"
 msgid ""
 "\n"
 "            >Create an account at this site</a>\n"
-"            or"
+"            "
 msgstr "\n>Založte si účet na těchto stránkách</a>\nnebo"
 
 #: mediagoblin/templates/mediagoblin/bits/frontpage_welcome.html:42

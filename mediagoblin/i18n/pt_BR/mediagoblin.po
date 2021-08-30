@@ -1571,7 +1571,7 @@ msgstr " Ainda não tem uma conta? É facil!"
 msgid ""
 "\n"
 "            >Create an account at this site</a>\n"
-"            or"
+"            "
 msgstr "\n>Crie uma conta neste site</a>\nou"
 
 #: mediagoblin/templates/mediagoblin/bits/frontpage_welcome.html:42
