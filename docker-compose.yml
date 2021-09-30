@@ -31,3 +31,4 @@ services:
       - ./user_dev:/opt/mediagoblin/user_dev
     ports:
       - "6543:6543"
+      - "6544:6543"
